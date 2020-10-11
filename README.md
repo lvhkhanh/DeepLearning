@@ -1,5 +1,6 @@
 # DeepLearning
 ## Courses
+### https://www.udacity.com/course/intro-to-tensorflow-lite--ud190 Approx. 2 Months
 ### https://atcold.github.io/pytorch-Deep-Learning/
 
 * [TensorFlow in Practice Specialization](https://www.coursera.org/specializations/tensorflow-in-practice?action=enroll&utm_campaign=2019Aug-TensorflowPractice&utm_content=logged-out&utm_medium=coursera&utm_source=banners)
